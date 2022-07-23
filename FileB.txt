@@ -1,2 +1,6 @@
 testing FileB.tx
 Different Testingt
+Add new lines of codes
+A
+B
+c
